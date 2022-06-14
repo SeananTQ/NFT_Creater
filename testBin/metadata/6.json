@@ -1,0 +1,27 @@
+{
+  "id": 6,
+  "dna": "3-3-0-3",
+  "image": "https://lh3.googleusercontent.com//Nft%236.png",
+  "external_url": "",
+  "name": "Nft#6",
+  "filename": "Nft%236.png",
+  "description": "在元宇宙的某个角落居住着666个胶囊人，每一个胶囊人都可以治疗一种绝症，他们真的是太牛逼了！",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_04"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Head_01"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Face_04"
+    }
+  ]
+}
